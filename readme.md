@@ -29,7 +29,7 @@ This repository serves as a record of my daily progress while learning Pandas th
 | Day | Topic | Status |
 |-----|-------------------------------|--------|
 | 1 | Series | ✅ Completed |
-| 2 | DataFrames | ⏳ Upcoming |
+| 2 | DataFrames | ✅ Upcoming |
 | 3 | Reading Files | ⏳ Upcoming |
 | 4 | Selecting Rows & Columns | ⏳ Upcoming |
 | 5 | Filtering Data | ⏳ Upcoming |
@@ -72,6 +72,7 @@ Pandas/
 ## Topics Covered
 
 - Series
+- DataFrames
 
 More topics will be added as the learning journey progresses.
 
