@@ -31,7 +31,7 @@ This repository serves as a record of my daily progress while learning Pandas th
 | 1 | Series | ✅ Completed |
 | 2 | DataFrames | ✅ Upcoming |
 | 3 | Reading Files | ✅ Upcoming |
-| 4 | Selecting Rows & Columns | ⏳ Upcoming |
+| 4 | Selecting Rows & Columns | ✅ Upcoming |
 | 5 | Filtering Data | ⏳ Upcoming |
 | 6 | Missing Values | ⏳ Upcoming |
 | 7 | Sorting & Ranking | ⏳ Upcoming |
@@ -74,6 +74,7 @@ Pandas/
 - Series
 - DataFrames
 - Reading CSV, Excel & JSON
+- Selecting Rows & Columns
 
 More topics will be added as the learning journey progresses.
 
